@@ -1,0 +1,31 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.29999999999999999,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 568,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 320,
+  "fullScreen" : false,
+  "deviceType" : "apple-iphone-se-space-gray",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "projectId" : "DA28DE87-9DEE-4F3C-8BA5-697E91A050F0",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : false,
+  "foldedCodeRanges" : [
+    "{123, 104}",
+    "{227, 361}",
+    "{588, 70}",
+    "{658, 66}",
+    "{725, 37}",
+    "{763, 37}",
+    "{801, 634}",
+    "{1436, 462}",
+    "{1900, 2919}",
+    "{5140, 192}"
+  ],
+  "deviceScale" : "fit"
+}
